@@ -10,6 +10,7 @@ const crypto = require("crypto")
 const multer = require("multer")
 const upload = require('./config/multerConfig')
 
+app.set('views', path.join(__dirname, 'views'));
 app.use(cookieParser())
 app.use(express.json())
 app.use(express.urlencoded({extended: true}))
