@@ -1,6 +1,7 @@
 # BuzzShare 
 
-**Try it here: ** https://buzz-share-rho.vercel.app/
+**Try it here:** https://buzz-share-rho.vercel.app/
+
 **BuzzShare** is a Twitter-like social media application developed using the **MERN** stack (MongoDB, Express.js, Node.js) with **EJS** as the templating engine. The platform allows users to register, log in, and post tweets, with a focus on secure authentication and a responsive, intuitive design.
 
 ## Project Overview
